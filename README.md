@@ -1,0 +1,12 @@
+# Calculadora
+
+<h4 align= "center"> 🚧  Projeto README 🚀 EM CONTRUÇÃO... 🚧
+
+<h1 align="center">
+<img alt= "Readme" title="Readme" src="calculadora.png">
+
+# Tecnologias
+ Este projeto foi desenvolvido com as seguintes tecnologias:
+- [HTML](https://devdocs.io/html/)
+- [CSS](https://devdocs.io/css/)
+- [vscode](https://code.visualstudio.com/)# Formulario-de-Cadastro
