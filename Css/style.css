@@ -8,12 +8,14 @@ body{
     
 }
 
+
+
 #tabela2{
     background: #2A2D37;
     border-radius: 8px;
 }
 
-button{
+.button{
     background: #22252D;
     color: #fff;
     width: 70px;
@@ -26,7 +28,7 @@ button{
     
     
 }
-button:hover{
+.button:hover{
     background: #2A2D37;
 
 }
@@ -45,20 +47,19 @@ button:hover{
     
     
  }
- #num{
-     
+ 
+ #tela{
+     color: white;
      font-size: 30px;
-     margin: 3px;
-     height: 6vh;
-     width: 200px;     
-     background: #22252D;
-     color:#fff;
-     text-align: right; 
+     background: #2A2D37;
+     width: 210px;
+     height: 60px;
+    
      
      
  }
 
- #clear{
+ #limparTela{
      color: #2CDBBD;
      background: #22252D;
      margin:3px;
@@ -66,7 +67,7 @@ button:hover{
  }
  
 
- #clear:hover{
+ #limparTela:hover{
     background: #2A2D37;
 
 }
